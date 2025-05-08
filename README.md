@@ -122,8 +122,8 @@ Unit tests under tests/ directory
 pytest
 ```
 ## 📦 Dependencies
--All project dependencies are listed in requirements.txt.
--Example libraries include:
+All project dependencies are listed in requirements.txt.
+Example libraries include:
 -numpy
 -pandas
 -matplotlib
@@ -136,15 +136,11 @@ pytest
 ## 📥 To install them manually:
 
 ```bash
-Copy
-Edit
 pip install numpy pandas scikit-learn matplotlib seaborn xgboost
 ```
 ## 🔄 To update requirements:
 
 ```bash
-Copy
-Edit
 pip freeze > requirements.txt
 ```
 ## 🛠️ Contributing
@@ -152,25 +148,19 @@ We welcome contributions! Follow these steps:
 Fork this repository
 Create a new branch:
 ```bash
-Copy
-Edit
 git checkout -b feature/your-feature
 ```
 Make your changes
 -Commit your changes:
 ```bash
-Copy
-Edit
 git commit -m "Added new feature"
 ```
 Push your branch:
 ```bash
-Copy
-Edit
 git push origin feature/your-feature
 Open a Pull Request
 ```
 Please ensure your code is well-documented and tested.
 
 ## 📄 License
--This project is licensed under the MIT License. See the LICENSE file for full details.
+This project is licensed under the MIT License. See the LICENSE file for full details.
