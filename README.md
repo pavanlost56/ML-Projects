@@ -150,7 +150,7 @@ pip freeze > requirements.txt
 ## 🛠️ Contributing
 We welcome contributions! Follow these steps:
 Fork this repository
--Create a new branch:
+Create a new branch:
 ```bash
 Copy
 Edit
@@ -163,7 +163,7 @@ Copy
 Edit
 git commit -m "Added new feature"
 ```
--Push your branch:
+Push your branch:
 ```bash
 Copy
 Edit
